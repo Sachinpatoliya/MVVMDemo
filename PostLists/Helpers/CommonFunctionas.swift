@@ -1,10 +1,8 @@
 //
 //  Common.swift
-//  PracticalTask
+//  PostLists
 //
-//  Created by Nikunj on 18/03/21.
-//  Copyright © 2021 Nikunj. All rights reserved.
-//
+//  Created by Sachin Patoliya on 10/06/21.
 
 import Foundation
 import UIKit
